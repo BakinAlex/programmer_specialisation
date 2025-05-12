@@ -1,16 +1,16 @@
-#Task_1
-a = 8
-b = 10
-c = 12
-d = 18
+# Task_1
+# a = 8
+# b = 10
+# c = 12
+# d = 18
 
-divisible = (-3 + a**2) * b - 2**3
+# divisible = (-3 + a**2) * b - 2**3
 
-divider = c - 2 * d
+# divider = c - 2 * d
 
-square = divisible / divider
+# square = divisible / divider
 
-print(square)
+# print(square)
 
 #Task_2
 #user = int(input('Введите кол-во минут: '))
@@ -35,7 +35,7 @@ print(square)
 #     print('No!')
 
 #Task_4
-a = int(input('Введите данные первого катета: '))
-b = int(input('Введите данные второго катета: '))
-square = (1 / 2) * a * b
-print(f'{square=}')
+# a = int(input('Введите данные первого катета: '))
+# b = int(input('Введите данные второго катета: '))
+# square = (1 / 2) * a * b
+# print(f'{square=}')
